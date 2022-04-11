@@ -1,3 +1,5 @@
 This is a first test.
 This is a second test in clone. edit by others.
+This is a second test in clone. edit by Lin.
 This is the third test.
+resolve the confict.
